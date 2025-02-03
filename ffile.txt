@@ -1,1 +1,3 @@
 my first file in Git repository
+
+changed file content
